@@ -1,8 +1,8 @@
 Esto es una prueba hecha por 
 # Adrian Perez Blanco
 
-- ¿Qué le dice un código a otro antes de refactorizarse?
-- Tienes un _"bad smell"._ 
+\- ¿Qué le dice un código a otro antes de refactorizarse?
+\- Tienes un _"bad smell"._ 
 
 Razones por las que aprobar esta práctica:
 - Chiste propio
@@ -15,5 +15,5 @@ Razones por las que aprobar esta práctica:
 ```java
 String texto = "Hola Velázquez";
 System.out.println(texto);
-//Te muestra Hola Velázquez
+//Te muestra "Hola Velázquez"
 ```
